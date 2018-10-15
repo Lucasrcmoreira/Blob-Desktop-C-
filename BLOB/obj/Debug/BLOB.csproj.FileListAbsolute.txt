@@ -1,0 +1,16 @@
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\bin\Debug\BLOB.exe.config
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\bin\Debug\BLOB.exe
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\bin\Debug\BLOB.pdb
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Properties.Resources.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.csproj.GenerateResource.cache
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.exe
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.pdb
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Clientes.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Funcionarios.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Login.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Menu.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.Projetos.resources
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\bin\Debug\MySql.Data.xml
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.csproj.CopyComplete
+C:\Users\Lucas Ramos\Desktop\projeto\BLOB\BLOB\obj\Debug\BLOB.csprojAssemblyReference.cache

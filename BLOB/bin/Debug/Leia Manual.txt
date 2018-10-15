@@ -1,0 +1,28 @@
+Manual do usuário
+
+O Programa Desktop BLOB gerencia informações  dentro do banco de dados, onde somente os funcionários ou administradores terão acesso a este programa.
+Somente o administrador poderá inserir, modificar e excluir solicitações de Funcionários. 
+O programa inicia em uma tela de login onde qualquer administrados ou funcionário pode efetuar o Login, seguido para um menu onde contém as opções funcionário, cliente ou projeto
+
+O sistema não permitirá o acesso por pessoas que não sejam membros da empresa como clientes ou terceiros.
+
+
+Funções que funcionários poderam usufluir:
+Consultar Colaboradores/Funcionários, Consultar Clientes, Editar Projetos somente em Andamento e pode Consultar Cliente. 
+
+Funções que administradores poderam usufluir:
+Cadastrar, Modificar, Excluir e Consultar Colaboradores/Funcionários, Pode alterar projetos em Andamento ou Arquivados e pode Consultar Clientes.
+
+Como iniciar
+para iniciar você precisar ser um Colaborador blob, Colocando seu email e Senha de cadastro e clicando em Login para iniciar o programa 
+obs: caso esqueça sua senha de cadastro ou E-mail blob procure um administrador Blob.
+
+Seguintes passos
+feito Login abrirá uma tela de menu onde voçê pode escolher a opção desejada
+
+
+
+
+Qualquer dúvida procure um Administrador blob ou entre em nosso site "www.blob.com.br"
+
+
